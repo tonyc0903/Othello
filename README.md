@@ -1,2 +1,2 @@
 # Othello
-Othello game in Java
+Simple Othello game in Java
